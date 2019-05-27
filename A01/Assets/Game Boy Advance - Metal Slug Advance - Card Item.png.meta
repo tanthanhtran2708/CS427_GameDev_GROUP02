@@ -1,0 +1,2307 @@
+fileFormatVersion: 2
+guid: d1ac6bc7771d685429b29211235c9b50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5334202784517663649
+    second: Game Boy Advance - Metal Slug Advance - Card Item_0
+  - first:
+      213: 7056078216846789147
+    second: Game Boy Advance - Metal Slug Advance - Card Item_1
+  - first:
+      213: -2723652934893298825
+    second: Game Boy Advance - Metal Slug Advance - Card Item_2
+  - first:
+      213: -6839150521027996372
+    second: Game Boy Advance - Metal Slug Advance - Card Item_3
+  - first:
+      213: -6273143361588511980
+    second: Game Boy Advance - Metal Slug Advance - Card Item_4
+  - first:
+      213: 3802286247785781672
+    second: Game Boy Advance - Metal Slug Advance - Card Item_5
+  - first:
+      213: -8145683313476841550
+    second: Game Boy Advance - Metal Slug Advance - Card Item_6
+  - first:
+      213: -7663970196095756094
+    second: Game Boy Advance - Metal Slug Advance - Card Item_7
+  - first:
+      213: -7702943346124613116
+    second: Game Boy Advance - Metal Slug Advance - Card Item_8
+  - first:
+      213: 7229124803312274267
+    second: Game Boy Advance - Metal Slug Advance - Card Item_9
+  - first:
+      213: -5526277867251663457
+    second: Game Boy Advance - Metal Slug Advance - Card Item_10
+  - first:
+      213: -8838584314431686446
+    second: Game Boy Advance - Metal Slug Advance - Card Item_11
+  - first:
+      213: 6148569822381264216
+    second: Game Boy Advance - Metal Slug Advance - Card Item_12
+  - first:
+      213: 1557917487883944592
+    second: Game Boy Advance - Metal Slug Advance - Card Item_13
+  - first:
+      213: 5911484370368069478
+    second: Game Boy Advance - Metal Slug Advance - Card Item_14
+  - first:
+      213: -1327104594892714280
+    second: Game Boy Advance - Metal Slug Advance - Card Item_15
+  - first:
+      213: 3377716263868092043
+    second: Game Boy Advance - Metal Slug Advance - Card Item_16
+  - first:
+      213: -1140713759075938947
+    second: Game Boy Advance - Metal Slug Advance - Card Item_17
+  - first:
+      213: -6537026708956666955
+    second: Game Boy Advance - Metal Slug Advance - Card Item_18
+  - first:
+      213: -3639436884644005675
+    second: Game Boy Advance - Metal Slug Advance - Card Item_19
+  - first:
+      213: 1735027283945323444
+    second: Game Boy Advance - Metal Slug Advance - Card Item_20
+  - first:
+      213: 6418108886883557295
+    second: Game Boy Advance - Metal Slug Advance - Card Item_21
+  - first:
+      213: 4425926453695269958
+    second: Game Boy Advance - Metal Slug Advance - Card Item_22
+  - first:
+      213: 4696457568248072634
+    second: Game Boy Advance - Metal Slug Advance - Card Item_23
+  - first:
+      213: -2508290010254076187
+    second: Game Boy Advance - Metal Slug Advance - Card Item_24
+  - first:
+      213: 6137402766536102059
+    second: Game Boy Advance - Metal Slug Advance - Card Item_25
+  - first:
+      213: -4512516468678324009
+    second: Game Boy Advance - Metal Slug Advance - Card Item_26
+  - first:
+      213: 8811018304168926797
+    second: Game Boy Advance - Metal Slug Advance - Card Item_27
+  - first:
+      213: -7651890741658486747
+    second: Game Boy Advance - Metal Slug Advance - Card Item_28
+  - first:
+      213: -1683307927086679630
+    second: Game Boy Advance - Metal Slug Advance - Card Item_29
+  - first:
+      213: 8677614751285717710
+    second: Game Boy Advance - Metal Slug Advance - Card Item_30
+  - first:
+      213: 4487411027611599350
+    second: Game Boy Advance - Metal Slug Advance - Card Item_31
+  - first:
+      213: -7824526233023688484
+    second: Game Boy Advance - Metal Slug Advance - Card Item_32
+  - first:
+      213: 1481291071227225850
+    second: Game Boy Advance - Metal Slug Advance - Card Item_33
+  - first:
+      213: -6774377701034092863
+    second: Game Boy Advance - Metal Slug Advance - Card Item_34
+  - first:
+      213: -8104043706690298987
+    second: Game Boy Advance - Metal Slug Advance - Card Item_35
+  - first:
+      213: -8606785158279944695
+    second: Game Boy Advance - Metal Slug Advance - Card Item_36
+  - first:
+      213: 3182479137689510999
+    second: Game Boy Advance - Metal Slug Advance - Card Item_37
+  - first:
+      213: -8489139302483608365
+    second: Game Boy Advance - Metal Slug Advance - Card Item_38
+  - first:
+      213: 3884709303478908384
+    second: Game Boy Advance - Metal Slug Advance - Card Item_39
+  - first:
+      213: -4710728559221394590
+    second: Game Boy Advance - Metal Slug Advance - Card Item_40
+  - first:
+      213: -3683117868451130187
+    second: Game Boy Advance - Metal Slug Advance - Card Item_41
+  - first:
+      213: 6304998527721091416
+    second: Game Boy Advance - Metal Slug Advance - Card Item_42
+  - first:
+      213: -913782814955551394
+    second: Game Boy Advance - Metal Slug Advance - Card Item_43
+  - first:
+      213: -8868504765631750959
+    second: Game Boy Advance - Metal Slug Advance - Card Item_44
+  - first:
+      213: 1811734296307695564
+    second: Game Boy Advance - Metal Slug Advance - Card Item_45
+  - first:
+      213: -915796192398391615
+    second: Game Boy Advance - Metal Slug Advance - Card Item_46
+  - first:
+      213: 2547472101233497710
+    second: Game Boy Advance - Metal Slug Advance - Card Item_47
+  - first:
+      213: -7306776397094662845
+    second: Game Boy Advance - Metal Slug Advance - Card Item_48
+  - first:
+      213: 8583526324045809794
+    second: Game Boy Advance - Metal Slug Advance - Card Item_49
+  - first:
+      213: 1649012071136841161
+    second: Game Boy Advance - Metal Slug Advance - Card Item_50
+  - first:
+      213: -515836497918319025
+    second: Game Boy Advance - Metal Slug Advance - Card Item_51
+  - first:
+      213: 2162117851039251292
+    second: Game Boy Advance - Metal Slug Advance - Card Item_52
+  - first:
+      213: 1076292803220929982
+    second: Game Boy Advance - Metal Slug Advance - Card Item_53
+  - first:
+      213: 6259882503426143795
+    second: Game Boy Advance - Metal Slug Advance - Card Item_54
+  - first:
+      213: -9056409915357628315
+    second: Game Boy Advance - Metal Slug Advance - Card Item_55
+  - first:
+      213: 2267068568702397793
+    second: Game Boy Advance - Metal Slug Advance - Card Item_56
+  - first:
+      213: -45496677116865461
+    second: Game Boy Advance - Metal Slug Advance - Card Item_57
+  - first:
+      213: 3272013113227608529
+    second: Game Boy Advance - Metal Slug Advance - Card Item_58
+  - first:
+      213: -6499598567249318512
+    second: Game Boy Advance - Metal Slug Advance - Card Item_59
+  - first:
+      213: 4536718262015520207
+    second: Game Boy Advance - Metal Slug Advance - Card Item_60
+  - first:
+      213: -4906209573948242041
+    second: Game Boy Advance - Metal Slug Advance - Card Item_61
+  - first:
+      213: -4043278571156829003
+    second: Game Boy Advance - Metal Slug Advance - Card Item_62
+  - first:
+      213: 4759306730654082818
+    second: Game Boy Advance - Metal Slug Advance - Card Item_63
+  - first:
+      213: 899608001192183848
+    second: Game Boy Advance - Metal Slug Advance - Card Item_64
+  - first:
+      213: 8303156220410702086
+    second: Game Boy Advance - Metal Slug Advance - Card Item_65
+  - first:
+      213: 3398973537550516023
+    second: Game Boy Advance - Metal Slug Advance - Card Item_66
+  - first:
+      213: 1436109070631801709
+    second: Game Boy Advance - Metal Slug Advance - Card Item_67
+  - first:
+      213: -8473099077775067115
+    second: Game Boy Advance - Metal Slug Advance - Card Item_68
+  - first:
+      213: -1750513749909147869
+    second: Game Boy Advance - Metal Slug Advance - Card Item_69
+  - first:
+      213: -8496944424557455712
+    second: Game Boy Advance - Metal Slug Advance - Card Item_70
+  - first:
+      213: 104854398047919001
+    second: Game Boy Advance - Metal Slug Advance - Card Item_71
+  - first:
+      213: 5475305950443507090
+    second: Game Boy Advance - Metal Slug Advance - Card Item_72
+  - first:
+      213: 4830709912562842004
+    second: Game Boy Advance - Metal Slug Advance - Card Item_73
+  - first:
+      213: -8441934889215379467
+    second: Game Boy Advance - Metal Slug Advance - Card Item_74
+  - first:
+      213: 2211513789179385330
+    second: Game Boy Advance - Metal Slug Advance - Card Item_75
+  - first:
+      213: -2005904356639983787
+    second: Game Boy Advance - Metal Slug Advance - Card Item_76
+  - first:
+      213: 5940883833170030793
+    second: Game Boy Advance - Metal Slug Advance - Card Item_77
+  - first:
+      213: -6803489590507415619
+    second: Game Boy Advance - Metal Slug Advance - Card Item_78
+  - first:
+      213: 7303877396061760046
+    second: Game Boy Advance - Metal Slug Advance - Card Item_79
+  - first:
+      213: -8079335151481558405
+    second: Game Boy Advance - Metal Slug Advance - Card Item_80
+  - first:
+      213: 707278533626655157
+    second: Game Boy Advance - Metal Slug Advance - Card Item_81
+  - first:
+      213: -8380191830626789046
+    second: Game Boy Advance - Metal Slug Advance - Card Item_82
+  - first:
+      213: 512704626802010863
+    second: Game Boy Advance - Metal Slug Advance - Card Item_83
+  - first:
+      213: 6301478438185929566
+    second: Game Boy Advance - Metal Slug Advance - Card Item_84
+  - first:
+      213: 6647413552531256559
+    second: Game Boy Advance - Metal Slug Advance - Card Item_85
+  - first:
+      213: 8851946160059318899
+    second: Game Boy Advance - Metal Slug Advance - Card Item_86
+  - first:
+      213: 5352791472927686719
+    second: Game Boy Advance - Metal Slug Advance - Card Item_87
+  - first:
+      213: 816772559548049269
+    second: Game Boy Advance - Metal Slug Advance - Card Item_88
+  - first:
+      213: -5047392616727171754
+    second: Game Boy Advance - Metal Slug Advance - Card Item_89
+  - first:
+      213: 6237402571610918582
+    second: Game Boy Advance - Metal Slug Advance - Card Item_90
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59c334fc3e752045a033fa396f8f0bd
+      internalID: -5334202784517663649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 101
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4a4daf96da4b349a90af4204cddffe
+      internalID: 7056078216846789147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 101
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffab3064047a0354d837cda76e68806a
+      internalID: -2723652934893298825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 101
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b722d5209def349abe3c0cb75e7471
+      internalID: -6839150521027996372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 101
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9888d665c8f4a4dbb9ccca7bac11ec
+      internalID: -6273143361588511980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 101
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e0fb345d9d12b4dadeb8618996c278
+      internalID: 3802286247785781672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 101
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1002654e1b64a4c8a5e351df7431fd
+      internalID: -8145683313476841550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 101
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6212130e0c9498a4483b781561c1e605
+      internalID: -7663970196095756094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 70
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba163d7789885648a5cf298bca1f6be
+      internalID: -7702943346124613116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 70
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9de43d5594352a47876ce44bd8cdf14
+      internalID: 7229124803312274267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 70
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cede82e34544c1e43965615e8bc162f2
+      internalID: -5526277867251663457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 70
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e0bcaaef4981a4c8b43a5e6524448e
+      internalID: -8838584314431686446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 70
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0824fb6e955ff9f48a3205a1106fa7a2
+      internalID: 6148569822381264216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 70
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bae553089157c4e8e147bc2885bd3d
+      internalID: 1557917487883944592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 70
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e8f710a5e579f41be10d84c7a6f6cd
+      internalID: 5911484370368069478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 70
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a53e98c16ea1b4cae2098c207eb528
+      internalID: -1327104594892714280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 55
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169c61558be78f144afe64533db5d120
+      internalID: 3377716263868092043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 55
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9fd13e9d1802e4a84957e1212c8f39
+      internalID: -1140713759075938947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617691e2be5a32b4ca109875888a30b5
+      internalID: -6537026708956666955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 55
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e9ecb968ca8bc43ae22d9ad4424495
+      internalID: -3639436884644005675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 55
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299f09c0b044d9b4f87cbdcf70a755ff
+      internalID: 1735027283945323444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 55
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f7817f07465df45a47ed58107a5555
+      internalID: 6418108886883557295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 55
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0d80e2ffe61f1439a3445568926cca
+      internalID: 4425926453695269958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 55
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666830026af79f640a7aab091ebefe73
+      internalID: 4696457568248072634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 55
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0e78f9f0ef75347833f3d228147319
+      internalID: -2508290010254076187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d0df7fa37aaed488bfba514205f9c5
+      internalID: 6137402766536102059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1aa838d7cf645489073fe9c083f2e9
+      internalID: -4512516468678324009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_27
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 43
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76226b0f31a76ad40a86110cb69fbad4
+      internalID: 8811018304168926797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 43
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d91f302c2943cc4baef0b6d9a3b1cbb
+      internalID: -7651890741658486747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8567e3975dfe64f8ee282dc711f1ab
+      internalID: -1683307927086679630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff27e725100cac84fb003458820d40f7
+      internalID: 8677614751285717710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 41
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecfad8a97b534b4ea0461d9f8545e87
+      internalID: 4487411027611599350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146e8b869b72aba4aa3f206c3de54c3e
+      internalID: -7824526233023688484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 43
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff0d449b2b52f144862fe03b7179759
+      internalID: 1481291071227225850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9180a76801bc9944a75f81f484b6518
+      internalID: -6774377701034092863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28da04c97df6cf540b0450c928c3306a
+      internalID: -8104043706690298987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_36
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54df4bcd6199c634f9e78bfd708955cd
+      internalID: -8606785158279944695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574a3b69f68dfba4ab0ff86b1059f269
+      internalID: 3182479137689510999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_38
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824a56724bdfa8f4594d7585b2501576
+      internalID: -8489139302483608365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d51778bb385cd4ca74df8f8da0b967
+      internalID: 3884709303478908384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade634db3ed9b4141a09bc5d0fcd7fe2
+      internalID: -4710728559221394590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bb4478a4650b94ca3055e56f920e28
+      internalID: -3683117868451130187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cf635d83b371e4da94c7bcae64be0f
+      internalID: 6304998527721091416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b46354b61b421745a018b767687e47b
+      internalID: -913782814955551394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 31
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c5da4b02f5ca841b680ff7b31152fa
+      internalID: -8868504765631750959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddcb46609be49b4799d66f7a35e9530
+      internalID: 1811734296307695564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_46
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 31
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13596dae374ec740ab56662a2af07e9
+      internalID: -915796192398391615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cb38643c206ec4bb6f1210b6ae48e2
+      internalID: 2547472101233497710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_48
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdb8bc6c61565443845df75b1426058
+      internalID: -7306776397094662845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_49
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227d9911894714447af93c47142faf1d
+      internalID: 8583526324045809794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_50
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bbc5fd819199d4d94e7d0acaeb82ea
+      internalID: 1649012071136841161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 31
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c195d00ad02bc7e42ae08e26135b6ca7
+      internalID: -515836497918319025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_52
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cb75cbc18ed5f40b847dca28139619
+      internalID: 2162117851039251292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_53
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035289ea3e7c3ec45b24f878db963e56
+      internalID: 1076292803220929982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_54
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 31
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8be2f89594a914087c7406a7547c66
+      internalID: 6259882503426143795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_55
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39fb7003c56ce449a50c893dcc64558
+      internalID: -9056409915357628315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_56
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaea7a2fee39f1e4dbb9e574d8203779
+      internalID: 2267068568702397793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_57
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fc921caa552c54980e0874db93c746
+      internalID: -45496677116865461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_58
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f335bdbb9d5994192953f0eed64acd
+      internalID: 3272013113227608529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7b2b6fbdf58214c88b3e4f905b7a0a
+      internalID: -6499598567249318512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_60
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8b6be09e827f94d9b090a2c792266c
+      internalID: 4536718262015520207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_61
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebdbcc4c32716547b5d9ed33cdb602b
+      internalID: -4906209573948242041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e677df2f0271f4091c9f22f8e7945c
+      internalID: -4043278571156829003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_63
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 17
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ff848585d336649b75bd667b307399
+      internalID: 4759306730654082818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_64
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d222bc472b559e42b87517b4892412e
+      internalID: 899608001192183848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a101ccce8df3f40943b94105d53e15
+      internalID: 8303156220410702086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_66
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 19
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b293dd7b01e98e4ba5ef9cbc2e76402
+      internalID: 3398973537550516023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_67
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb4905b2bc88b34e8c3c71a6bb7e641
+      internalID: 1436109070631801709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_68
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 19
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151cd567b167917449c10a51442d3ca5
+      internalID: -8473099077775067115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af822bf738195344298c91189d4c4b9e
+      internalID: -1750513749909147869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_70
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed8dd7a67104eb4b856502de111ecf4
+      internalID: -8496944424557455712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75342d9b100aa8146a78e5d862856db2
+      internalID: 104854398047919001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_72
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 19
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53357f45a01d4a4ba8f202597b02398
+      internalID: 5475305950443507090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702077ce57000f34abbf603468e004a8
+      internalID: 4830709912562842004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 19
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00998893bd6b2ee4ea28854e3bba513c
+      internalID: -8441934889215379467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_75
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e02e448a77b5e84ab1c505f8e7ff5df
+      internalID: 2211513789179385330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 7
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1364c62b403324aac3841d74c39c8f
+      internalID: -2005904356639983787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_77
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 7
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5478557f21a79344d987c2b372d2f74f
+      internalID: 5940883833170030793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_78
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd50280faa0f25846bd39ef48862117e
+      internalID: -6803489590507415619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_79
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a6d96a9cf47fd40a8d0384a74a0cdb
+      internalID: 7303877396061760046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_80
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e456b5d9844fb1408e20216ebd52ce8
+      internalID: -8079335151481558405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187d1587e504ad040ac7cb1c36bf7247
+      internalID: 707278533626655157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_82
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 7
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb6a42aa3a9722418ed8d6cd264aa48
+      internalID: -8380191830626789046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd00fe4fe2b7d5246aed534ed574bd28
+      internalID: 512704626802010863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_84
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd97606be5c58024e8476212e3e88ee7
+      internalID: 6301478438185929566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_85
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f66321373b63947a717e88c19c6e65
+      internalID: 6647413552531256559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_86
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da6512dfdaa53e409b61ab03f1cbfde
+      internalID: 8851946160059318899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_87
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa69f53fceb3af4c8cc0177fc397f00
+      internalID: 5352791472927686719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_88
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789ee6fa3507cde4eb85fa4b497f24a1
+      internalID: 816772559548049269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_89
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f592fc6a805c749948cf889641bf5a
+      internalID: -5047392616727171754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metal Slug Advance - Card Item_90
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 5
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda901bbae1699c449ae6dde864a8cf9
+      internalID: 6237402571610918582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6421dc5de9c97be458bcc4ecbf120701
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
